@@ -1,0 +1,1 @@
+import{j as n}from"./app-Cr_RoOFy.js";import{c as o}from"./button-Chh6FRSC.js";function m({message:r,className:t="",...e}){return r?n.jsx("p",{...e,className:o("text-sm text-red-600 dark:text-red-400",t),children:r}):null}export{m as I};
